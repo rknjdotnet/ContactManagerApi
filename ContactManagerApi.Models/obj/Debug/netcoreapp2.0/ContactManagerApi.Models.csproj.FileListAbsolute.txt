@@ -1,0 +1,9 @@
+C:\Users\ravi.amaravadi\Source\repos\ContactManagerApi\ContactManagerApi.Models\bin\Debug\netcoreapp2.0\ContactManagerApi.Models.deps.json
+C:\Users\ravi.amaravadi\Source\repos\ContactManagerApi\ContactManagerApi.Models\bin\Debug\netcoreapp2.0\ContactManagerApi.Models.dll
+C:\Users\ravi.amaravadi\Source\repos\ContactManagerApi\ContactManagerApi.Models\bin\Debug\netcoreapp2.0\ContactManagerApi.Models.pdb
+C:\Users\ravi.amaravadi\Source\repos\ContactManagerApi\ContactManagerApi.Models\obj\Debug\netcoreapp2.0\ContactManagerApi.Models.csprojResolveAssemblyReference.cache
+C:\Users\ravi.amaravadi\Source\repos\ContactManagerApi\ContactManagerApi.Models\obj\Debug\netcoreapp2.0\ContactManagerApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\ravi.amaravadi\Source\repos\ContactManagerApi\ContactManagerApi.Models\obj\Debug\netcoreapp2.0\ContactManagerApi.Models.AssemblyInfoInputs.cache
+C:\Users\ravi.amaravadi\Source\repos\ContactManagerApi\ContactManagerApi.Models\obj\Debug\netcoreapp2.0\ContactManagerApi.Models.AssemblyInfo.cs
+C:\Users\ravi.amaravadi\Source\repos\ContactManagerApi\ContactManagerApi.Models\obj\Debug\netcoreapp2.0\ContactManagerApi.Models.dll
+C:\Users\ravi.amaravadi\Source\repos\ContactManagerApi\ContactManagerApi.Models\obj\Debug\netcoreapp2.0\ContactManagerApi.Models.pdb
